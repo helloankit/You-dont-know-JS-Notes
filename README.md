@@ -1,5 +1,6 @@
 # You-dont-know-JS-Notes
 Notes of YDNJS Book Series
+[To read the series online, click here](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
 
 ![App Ideas Image](./you-dont-know-js.jpg)
